@@ -1,7 +1,13 @@
 links:
-  - title: GW2Efficiency
-    url: https://gw2efficiency.com/
-    desc: Overview of your Guild Wars 2 account.
-  - title: GW2 Wiki
-    url: https://wiki.guildwars2.com
-    desc: Guild Wars 2 Wiki
+  - title: Discord
+    desc: The out-of-game chat and voice comms of [Ankh]
+    url: https://discord.gg/VvDb7ky
+  - title: Youtube
+    desc: Guides and other video content
+    url: https://www.youtube.com/channel/UC6GTUB1iHNiehNpjNKFafsA
+  - url: /articles
+    title: Guides
+    desc: Written guides
+  - title: Projects
+    url: /projects
+    desc: Projects by guildies
