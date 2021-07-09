@@ -1,13 +1,19 @@
 links:
+  - title: Interested in joining?
+    desc: Read information about the guild and how to apply
+    url: /about
   - title: Discord
     desc: The out-of-game chat and voice comms of [Ankh]
     url: https://discord.gg/VvDb7ky
+  - title: Calendar
+    url: /calendar
+    desc: See upcoming events happening in the Seraphim Order
+  - title: Projects
+    url: /projects
+    desc: Tools, helpers and other projects made by members of the guild      
   - title: Youtube
     desc: Video content recorded by the guild
     url: https://www.youtube.com/channel/UC6GTUB1iHNiehNpjNKFafsA
   - url: /guides
     title: Guides
     desc: Guides written by fellow Seraphim
-  - title: Projects
-    url: /projects
-    desc: Tools, helpers and other projects made by members of the guild
