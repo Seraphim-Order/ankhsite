@@ -3,11 +3,11 @@ links:
     desc: The out-of-game chat and voice comms of [Ankh]
     url: https://discord.gg/VvDb7ky
   - title: Youtube
-    desc: Guides and other video content
+    desc: Video content recorded by the guild
     url: https://www.youtube.com/channel/UC6GTUB1iHNiehNpjNKFafsA
   - url: /guides
     title: Guides
-    desc: Written guides
+    desc: Guides written by fellow Seraphim
   - title: Projects
     url: /projects
-    desc: Projects by guildies
+    desc: Tools, helpers and other projects made by members of the guild

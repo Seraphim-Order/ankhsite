@@ -8,7 +8,9 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://ankh.quest/" />
     <meta property="og:image" content="http://ankh.quest/static/img/emblem.png" />
-    <meta property="og:description" content="Seraphim Order [Ankh] guild's hub with quick links and guides." />
+    {% if description %}
+    <meta property="og:description" content="{{description}}" />
+    {% endif %}
     <meta name="theme-color" content="#9D8E6C">
     <meta name="twitter:card" content="summary">
 
