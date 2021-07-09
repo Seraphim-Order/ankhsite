@@ -3,8 +3,6 @@
 Ahai Seraphim and potential future Seraphim,\
 below you'll find an overview of what we, as a guild, offer:
 
-- - -
-
 **What do we offer?**
 
 Ankh is a casual guild with a laid-back view of the game itself, focusing more on creating a community than on efficiency in-game.
@@ -28,8 +26,6 @@ We'd like to welcome you by offering the following:
 
 ( * **Note:** We are not a raid-oriented guild. Although we have people interested in that type of content and story, it is not our main priority whatsoever. If you're looking for a guild with the sole purpose of raiding, other guilds may better suit your needs.)
 
-- - -
-
 **Important Notice:**\
   No matter if you're a veteran or new to the game,\
   we won’t force you into a certain playstyle.\
@@ -38,8 +34,6 @@ We'd like to welcome you by offering the following:
   We give our members the freedom to **Play as they want.**  
 
   This means the following:
-
-- - -
 
 * **Time spent online:**\
   We understand many have their lives to live and families to care for. It’d be insane if we’d get mad because your in-laws showed up, if you had to pay additional attention to your study, or if your son/daughter just woke up from their nap.\
@@ -66,11 +60,7 @@ We'd like to welcome you by offering the following:
     Our intention is to offer a welcoming environment for any members old, and new.\
   This means that every member should feel able and motivated to join any \[Ankh] activity going on within the guild. You're welcome to play by yourself, and to form your own group of friends, but we do not support the formation of strong cores within the guild that only play together or allow certain members. If you are a part of \[Ankh], you are welcome in all content. (i.e. we strive to prevent gatekeeping.)  
 
-- - -
-
  ^(Note: 'play as you want' does not mean that you can freely troll around at the expense of others. The concept of 'play as you want' goes for everyone, and if you're simply not enjoyable to play with (excessive trolling, forcing people to play your way, etc.) ^(then others are not forced to play with you.)
-
-- - -
 
 **Our homeworld is currently undetermined**\
   *Yet homeworld servers only matter these days for World v. World v. World.\
@@ -80,8 +70,6 @@ We'd like to welcome you by offering the following:
   **This system of homeworlds is currently being reworked by Arenanet and will further decrease in importance in the future.**  
 
   Additionally, we are looking to set-up WvW groups within the guild once again on either Desolation or Vabbi.
-
-- - -
 
 **Quality over Quantity**\
   One of our goals is to focus on the quality of our Guild and its members, not the quantity.\
@@ -93,8 +81,6 @@ We'd like to welcome you by offering the following:
 We want to create a casual and welcoming environment, not one where people feel forced to log on because they otherwise get demoted to a kick-list or even straight-up kicked.
 
 **If you’d like a Guild of limited size, yet active enough to do PvE-content with, we hope you’ll feel at home with us.**
-
-- - -
 
 **Why are we recruiting?**\
 \
@@ -109,8 +95,6 @@ Most of us love meeting and interacting with new people, but PUG's don't always 
 As such we’d rather have you join us so we can all feel at ease.\
 \
 The Guild largely focuses on PvE but various members of the Order do play PvP and WvW.
-
-- - -
 
 Thank you for your time,
 
