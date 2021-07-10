@@ -5,45 +5,32 @@ description: Guides written by fellow Seraphim
 ---
 
 <a href="/" class="text-seraphim-gold font-bold text-lg">← Home</a>
-<p class="w-full max-w-2xl my-8 px-4 lg:mx-0">{{description}}</p>
+<p class="w-full max-w-2xl my-8 px-4 lg:mx-0 text-lg text-gray-600">{{description}}</p>
 <section class="mt-15">
     {% set postslist = collections.post %}
 
-    {% if not postslist %}
+    {% if postslist %}
+        <ul class="list-disc px-4 lg:mx-0">
+        {% for post in postslist %}
+            <li>
+                <article class="my-4">
+                    <a href="{{ post.url | url }}" class="text-seraphim-gold font-bold text-lg">
+                        {% if post.data.title %}
+                            {{ post.data.title }}
+                        {% else %}
+                            Untitled
+                        {% endif %}
+                    </a>
+                    {% if post.data.description %}
+                        <span class="text-lg text-gray-600">
+                            - {{ post.data.description }}
+                        </span>
+                    {% endif %}
+                </article>
+            </li>
+        {% endfor %}
+        </ul>
+    {% else %}
         <p class="w-full max-w-2xl my-8 px-4 lg:mx-0">There's nothing here at the moment, please come back later</p>
     {% endif %}
-
-    {% for post in postslist | reverse %}
-        <article class="my-8">
-            <h2 class="font-bold text-3xl text-gray-900 mb-2">
-                <a href="{{ post.url | url }}">
-                    {% if post.data.title %}
-                        {{ post.data.title }}
-                    {% else %}
-                        Untitled
-                    {% endif %}
-                </a>
-            </h2>
-            <p class="text-base leading-6 text-gray-500 mb-3">
-                <time>
-                    {{ post.date | readableDate }}
-                    by
-                    <a>{{ post.data.author }}</a>
-
-                </time>
-            </p>
-            {% if post.data.description %}
-                <p class="text-lg text-gray-500 mb-3">
-                    {{ post.data.description }}
-                </p>
-            {% endif %}
-
-            <p>
-                <a href="{{ post.url | url }}" class="text-seraphim-gold font-bold text-lg">
-                    Read more →
-                </a>
-            </p>
-
-        </article>
-    {% endfor %}
 </section>

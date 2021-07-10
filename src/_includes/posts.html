@@ -6,13 +6,14 @@ prism: true
 <div class="container max-w-4xl mt-6  px-6">
     <div class="pb-5 mb-5 border-b border-seraphim-grey">
         <h1 class="font-bold text-5xl">{{title}}</h1>
+        {% if author %}
         <p class="text-center text-base leading-6 font-medium text-gray-500">
-            <time> {{ date | readableDate }}
+            <time>
                 by
                 <a>{{ author }}</a>
-
             </time>
         </p>
+        {% endif %}
 
     </div>
     <a href="/guides" class="text-seraphim-gold font-bold text-lg">← Back</a>
