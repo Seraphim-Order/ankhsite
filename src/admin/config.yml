@@ -14,15 +14,13 @@ local_backend: true
 collections:
   - label: "Guides"
     name: "guides"
-    folder: "src/posts"
+    folder: "src/guide"
     create: true
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - widget: select
         label: "tags"
