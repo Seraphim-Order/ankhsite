@@ -3,7 +3,7 @@ title: Useful Guild Wars 2 Links
 description: A collection of useful Guild Wars 2 links
 author: Vildravn
 date: 2021-07-10T21:04:10.130Z
-tableofcontents: true
+tableofcontents: false
 ---
 Work in progress
 
