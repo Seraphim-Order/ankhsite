@@ -20,10 +20,10 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Show Table of Contents", name: "tableofcontents", widget: "boolean", default: true }
+      - { label: "Show Table of Contents", name: "tableofcontents", widget: "boolean", default: true, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Content"
     name: "content"
