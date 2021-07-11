@@ -40,6 +40,21 @@ module.exports = function (eleventyConfig) {
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
 
+  // Add Table of Contents plugin
+  const pluginTOC = require('eleventy-plugin-nesting-toc');
+  eleventyConfig.addPlugin(pluginTOC, {headingText: 'Table of Contents', headingTag: 'h3'});
+
+  // Markdown-it-anchor to add anchor ids to headings
+  const markdownIt = require('markdown-it');
+  const markdownItAnchor = require('markdown-it-anchor');
+  eleventyConfig.setLibrary("md",
+      markdownIt({
+          html: true,
+          linkify: true,
+          typographer: true,
+      }).use(markdownItAnchor, {})
+  );
+
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
