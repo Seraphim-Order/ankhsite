@@ -37,4 +37,4 @@ Vallun](https://www.youtube.com/channel/UCgcDJ60QOCj3GjHui8Ws0cg) -
 ### Uncategorized
 
 [Peu Research Center](https://www.peuresearchcenter.com/index.html) -\
-[\[fast] Farming Community](https://fast.farming-community.eu/) -
+[\[fast\] Farming Community](https://fast.farming-community.eu/) -
