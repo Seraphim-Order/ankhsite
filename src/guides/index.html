@@ -6,12 +6,16 @@ description: Guides written by fellow Seraphim
 
 <a href="/" class="text-seraphim-gold font-bold text-lg">← Home</a>
 <p class="w-full max-w-2xl my-8 px-4 lg:mx-0 text-lg text-gray-600">{{description}}</p>
-<section class="mt-15">
-    {% set postslist = collections.post %}
+    {% set gw2posts = collections.gw2 %}
+    {% set gw1posts = collections.gw1 %}
+    {% set otherposts = collections.other %}
 
-    {% if postslist %}
-        <ul class="list-disc px-4 lg:mx-0">
-        {% for post in postslist %}
+    {% if gw2posts %}
+    <section class="mt-15">
+        <h3 class="text-center">Guild Wars 2</h3>
+
+        <ul class="list-disc px-4 pb-10 lg:mx-0">
+        {% for post in gw2posts %}
             <li>
                 <article class="my-4">
                     <a href="{{ post.url | url }}" class="text-seraphim-gold font-bold text-lg">
@@ -30,7 +34,57 @@ description: Guides written by fellow Seraphim
             </li>
         {% endfor %}
         </ul>
-    {% else %}
-        <p class="w-full max-w-2xl my-8 px-4 lg:mx-0 text-lg text-gray-600">There's nothing here at the moment, please come back later</p>
+    </section>
     {% endif %}
-</section>
+
+    {% if gw1posts %}
+    <section class="mt-15">
+        <h3 class="text-center">Guild Wars</h3>
+        <ul class="list-disc px-4 pb-10 lg:mx-0">
+        {% for post in gw1posts %}
+            <li>
+                <article class="my-4">
+                    <a href="{{ post.url | url }}" class="text-seraphim-gold font-bold text-lg">
+                        {% if post.data.title %}
+                            {{ post.data.title }}
+                        {% else %}
+                            Untitled
+                        {% endif %}
+                    </a>
+                    {% if post.data.description %}
+                        <span class="text-lg text-gray-600">
+                            - {{ post.data.description }}
+                        </span>
+                    {% endif %}
+                </article>
+            </li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if otherposts %}
+    <section class="mt-15">
+        <h3 class="text-center">Other</h3>
+        <ul class="list-disc px-4 pb-10 lg:mx-0">
+        {% for post in otherposts %}
+            <li>
+                <article class="my-4">
+                    <a href="{{ post.url | url }}" class="text-seraphim-gold font-bold text-lg">
+                        {% if post.data.title %}
+                            {{ post.data.title }}
+                        {% else %}
+                            Untitled
+                        {% endif %}
+                    </a>
+                    {% if post.data.description %}
+                        <span class="text-lg text-gray-600">
+                            - {{ post.data.description }}
+                        </span>
+                    {% endif %}
+                </article>
+            </li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
