@@ -4,6 +4,8 @@ description: This guide is a short introduction into the 10 professions of Guild
 author: Nero
 date: 2021-07-13T11:37:10.043Z
 tableofcontents: true
+tags:
+  - gw1
 ---
 # The Professions, an introduction
 
