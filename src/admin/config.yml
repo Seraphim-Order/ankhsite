@@ -17,6 +17,7 @@ collections:
   - label: "Guides"
     name: "guides"
     folder: "src/guide"
+    preview_path: "guide/{{slug}}"
     create: true
     editor:
       preview: false
@@ -42,6 +43,7 @@ collections:
       - label: "About"
         name: "about"
         file: "src/about/content.md"
+        preview_path: "about/"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Quick Links"
@@ -59,6 +61,7 @@ collections:
       - label: "Projects"
         name: "projects"
         file: "src/_data/projects.yaml"
+        preview_path: "projects/"
         fields:
           - label: Projects
             name: projects
