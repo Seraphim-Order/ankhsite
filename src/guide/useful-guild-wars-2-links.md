@@ -4,6 +4,8 @@ description: A collection of useful Guild Wars 2 links
 author: Vildravn
 date: 2021-07-10T21:04:10.130Z
 tableofcontents: true
+tags:
+  - gw2
 ---
 Work in progress
 
