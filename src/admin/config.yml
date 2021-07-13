@@ -26,14 +26,14 @@ collections:
       - { label: "Author", name: "author", widget: "string", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Show Table of Contents", name: "tableofcontents", widget: "boolean", default: true, required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
       - widget: select
         label: "Tags"
         name: "tags"
         multiple: false
         create: false
         options: ["gw1", "gw2", "other"]
-        default: ["gw2"]
+        default: ["gw2"]      
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: "Content"
     name: "content"
     editor:
