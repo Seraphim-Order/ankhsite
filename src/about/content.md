@@ -105,3 +105,7 @@ Thank you for your time,
   **Guild Hall: Gilded Hollow**\
   **Guild Level: 68**\
   **Contact: Nero Angelo (Nero.8047) | Discord: Nero #8016 | Reddit: Azure_Flames**
+
+<div class="container flex flex-col justify-center items-center">
+  <img src="/static/img/frankh.png" />
+</div>
