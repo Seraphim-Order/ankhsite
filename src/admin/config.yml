@@ -32,8 +32,8 @@ collections:
         name: "tags"
         multiple: false
         create: false
-        options: ["gw1", "gw2", "other"]
-        default: ["gw2"]      
+        options: ["gw1", "gw2", "other", "draft"]
+        default: ["draft"]
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Content"
     name: "content"
