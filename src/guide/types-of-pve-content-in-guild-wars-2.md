@@ -26,6 +26,8 @@ There's a plenty of different PvE content in Guild Wars 2 for all levels of skil
 
 ## Dungeons
 
+## Guild Missions
+
 ## Fractals of the Mists
 
 ## Raids
