@@ -35,5 +35,5 @@ Vallun](https://www.youtube.com/channel/UCgcDJ60QOCj3GjHui8Ws0cg) - Useful YouTu
 
 ### Farming
 
-[\[fast] Farming Community](https://fast.farming-community.eu/) - Guild with a focus on open world PvE and efficient gold farming. Runs farm trains and writes farming guides
-[Peu Research Center](https://www.peuresearchcenter.com/index.html) - Another farming oriented community that runs open world PvE trains for gold, exp, map currency, etc. Also has various efficiency oriented guides\
+[\[fast] Farming Community](https://fast.farming-community.eu/) - Guild with a focus on open world PvE and efficient gold farming. Runs farm trains and writes farming guides[\
+Peu Research Center](https://www.peuresearchcenter.com/index.html) - Another farming oriented community that runs open world PvE trains for gold, exp, map currency, etc. Also has various efficiency oriented guides\
