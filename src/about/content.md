@@ -3,6 +3,7 @@
 Ahai Seraphim and potential future Seraphim,\
 below you'll find an overview of what we, as a guild, offer:
 
+---
 **What do we offer?**
 
   Ankh is a casual guild with a laid-back view on the game itself, focusing more on creating a communty than on efficiency in-game.
@@ -35,6 +36,7 @@ We use Discord or in-game chats to stay in touch, have guild meetings, and gathe
 
 ( * **Note:** We are not a raid-oriented guild. Although we have people interested in that type of content and story, it is not our main priority whatsoever. If you're looking for a guild with the sole purpose of raiding, other guilds may better suit your needs.)
 
+----
 **Important Notice:**  
   No matter if you're a veteran or new to the game,  
   we won’t force you into a certain playstyle.  
@@ -42,8 +44,9 @@ We use Discord or in-game chats to stay in touch, have guild meetings, and gathe
   It’s all up to yourself.  
   We give our members the freedom to **Play as they want.**  
 
-  This means the following:
+  This means the following: 
 
+----
 
 * **Time spent online:**  
   We understand many have their lives to live and families to care for. It’d be insane if we’d get mad because your in-laws showed up, if you had to pay additional attention to your study, or if your son/daughter just woke up from their nap.  
@@ -77,8 +80,10 @@ We use Discord or in-game chats to stay in touch, have guild meetings, and gathe
   Our intention is to offer a welcoming environment for any members old, and new.  
 This means that every member should feel able and motivated to join any [Ankh] activity going on within the guild. You're welcome to play by yourself, and to form your own group of friends, but we do not support the formation of strong cores within the guild that only play together or allow certain members to join in. If you are a part of [Ankh], you are welcome in all content. (i.e. we strive to prevent excessive gatekeeping.)  
 
+--- 
  <sup>(Note: 'play as you want' does not mean that you can freely troll around at the expense of others. The concept of 'play as you want' goes for everyone, and if you're simply not enjoyable to play with (excessive trolling, forcing people to play your way, etc.) (then others are not forced to play with you.)</sup>
 
+----
 **[Ankh] resides on Vabbi for World vs World purposes.**
 
 In WvW we roam around together with a small group of people on Tuesdays, Thursdays, and Saturdays.
@@ -87,6 +92,7 @@ While a system of megaservers allows all players on European servers to play PvE
 
 *Note that alliances are coming to Guild Wars 2 later [this year](https://www.guildwars2.com/en/news/arenanet-studio-update-july-2021/), which would allow any members of the guild to play WvW together regardless of what server they had chosen during the creation of their account.*
 
+----
 **Quality over Quantity**  
   One of our goals is to focus on the quality of our Guild and its members, not the quantity.  
   We’d rather recruit a single kind player who has just begun the game and doesn’t know anything about Tyria than a group of 10 trolls looking to spoil the experience for others.
@@ -98,6 +104,7 @@ We want to create a casual and welcoming environment, not one where people feel 
 
 **If you’d like a Guild of limited size, yet active enough to do PvE, PvP, and WvW-content with, we hope you’ll feel at home with us.**
 
+----
 **Why are we recruiting?**
 
 The pandemic has hit us all quite hard, and not everyone has been able to continue guild interactions, especially in-game.
@@ -110,6 +117,7 @@ As such, we'd like for you to bolster our ranks!
 
 ***TL;DR*** We simply wish to boost our activity and play all content with people with similar mindsets. 
 
+----
 
 Thank you for your time,
 
