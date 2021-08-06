@@ -127,7 +127,6 @@ Thank you for your time,
   **World: Vabbi**  
   **Guild Hall: Gilded Hollow**  
   **Guild Level: 68**  
-  **Website:** https://ankh.quest/  
   **Contacts:**  
 
   * Nero Angelo (Nero.8047) | Discord: Nero #8016 | Reddit: Azure_Flames
