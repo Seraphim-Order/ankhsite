@@ -4,6 +4,13 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 
 module.exports = function (eleventyConfig) {
+  // Gw2 Chat Code Shortcode
+  const parseChatCode = require('armory-embeds-chat-code');
+  eleventyConfig.addShortcode("chatcode", function(code) {
+    //code = `[${code}]`;
+    return parseChatCode(code);
+  });
+
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 

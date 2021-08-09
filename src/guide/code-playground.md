@@ -16,10 +16,23 @@ Please keep this page tagged as **draft** so it doesn't display under Guides, th
 ## Tooltips
 
 Here you can see examples of tooltips, like the ones used by metabattle.  
-For full documentation of the **armory-embeds** script, go [here](https://madou.github.io/armory-embeds/).  
+For full HTML documentation of the **armory-embeds** script, go [here](https://madou.github.io/armory-embeds/).  
 For the IDs, you'll currently have to use the [API](https://wiki.guildwars2.com/wiki/API:Main) and/or guesswork. Some links to the API are on the wiki, under the External Links section.
 
-### Items
+### Chat Code
+
+You can embed many (but not all) things using an in game Chat Code like this:
+
+{% chatcode "[&AgGqtgDgrxYAAOpfAAAnYAAA]" %}
+
+{% chatcode "[&Bt2yAAA=]" %}
+
+{% chatcode "[&BwoDAAA=]" %}
+
+### HTML
+
+Tooltips using HTML are more advanced, flexible and allow for displaying more things but also can easily get much more complicated. Below are some examples of HTML-based tooltips.
+#### Items
 
 A single item
 
@@ -51,7 +64,7 @@ A single item with stats, upgrades and infusions
 >
 </div>
 
-### Skills
+#### Skills
 
 A single skill
 
@@ -69,7 +82,7 @@ Multiple skills
 >
 </div>
 
-### Specializations
+#### Specializations
 
 A specialization with traits selected
 
