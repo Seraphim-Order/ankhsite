@@ -55,7 +55,7 @@ a:hover {
 .gw2-icon-coin {
   width: 15px;
   height: 15px;
-  display: inline !important;
+  display: inherit;
   margin-left: 2px;
 }
 
