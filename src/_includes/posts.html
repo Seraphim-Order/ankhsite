@@ -18,11 +18,11 @@ prism: true
     </div>
     <a href="/guides" class="text-seraphim-gold font-bold text-lg">← Back</a>
     {% if tableofcontents %}
-    <aside class="prose my-8 mx-auto leading-none">
+    <aside class="prose max-w-3xl my-8 mx-auto leading-none">
         {{ content | toc | safe }}
     </aside>
     {% endif %}
-    <article class="prose my-4 mx-auto">
+    <article class="prose max-w-3xl my-4 mx-auto">
         {{ content | safe }}</article>
 
 </div>
