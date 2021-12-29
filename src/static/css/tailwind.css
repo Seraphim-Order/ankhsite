@@ -59,6 +59,11 @@ a:hover {
   margin-left: 2px;
 }
 
+.gw2-info-inline {
+  display: inline;
+  margin-right: 4px;
+}
+
 /* Syntax Highlighting*/
 
 body :not(pre) > code[class*="language-"],
