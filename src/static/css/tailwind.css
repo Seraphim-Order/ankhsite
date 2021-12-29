@@ -32,6 +32,33 @@ a:hover {
   margin-bottom: 1em;
 }
 
+.prose img {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.gw2-icon-small {
+  width: 32px;
+  height: 32px;
+  display: inline;
+  margin-right: 0.5em;
+}
+
+.gw2-icon-inline {
+  width: 24px;
+  height: 24px;
+  display: inline;
+  margin-top: auto !important;
+  margin-right: 4px;
+}
+
+.gw2-icon-coin {
+  width: 15px;
+  height: 15px;
+  display: inline;
+  margin-left: 2px;
+}
+
 /* Syntax Highlighting*/
 
 body :not(pre) > code[class*="language-"],
