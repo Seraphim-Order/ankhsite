@@ -46,11 +46,11 @@ const renderTPSellPrice = async (itemId, renderTarget) => {
     const tag = document.getElementById(renderTarget);
 
     if (sellPrice.gold > 0) {
-        tag.innerHTML = `${sellPrice.gold}<img class="gw2-icon-coin" src="/static/img/coin_gold.png" /> ${sellPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" /> ${sellPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" />`
+        tag.innerHTML = `${sellPrice.gold}<img class="gw2-icon-coin" src="/static/img/coin_gold.png" style="display: inline" /> ${sellPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" style="display: inline" /> ${sellPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" style="display: inline" />`
     } else if (sellPrice.silver > 0) {
-        tag.innerHTML = `${sellPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" /> ${sellPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" />`
+        tag.innerHTML = `${sellPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" style="display: inline" /> ${sellPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" style="display: inline" />`
     } else {
-        tag.innerHTML = `${sellPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" />`
+        tag.innerHTML = `${sellPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" style="display: inline" />`
     }
 }
 
@@ -60,10 +60,10 @@ const renderTPBuyPrice = async (itemId, renderTarget) => {
     const tag = document.getElementById(renderTarget);
 
     if (buyPrice.gold > 0) {
-        tag.innerHTML = `${buyPrice.gold}<img class="gw2-icon-coin" src="/static/img/coin_gold.png" /> ${buyPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" /> ${buyPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" />`
+        tag.innerHTML = `${buyPrice.gold}<img class="gw2-icon-coin" src="/static/img/coin_gold.png" style="display: inline" /> ${buyPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" style="display: inline" /> ${buyPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" style="display: inline" />`
     } else if (buyPrice.silver > 0) {
-        tag.innerHTML = `${buyPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" /> ${buyPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" />`
+        tag.innerHTML = `${buyPrice.silver}<img class="gw2-icon-coin" src="/static/img/coin_silver.png" style="display: inline" /> ${buyPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" style="display: inline" />`
     } else {
-        tag.innerHTML = `${buyPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" />`
+        tag.innerHTML = `${buyPrice.copper}<img class="gw2-icon-coin" src="/static/img/coin_copper.png" style="display: inline" />`
     }
 }
