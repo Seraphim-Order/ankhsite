@@ -19,6 +19,11 @@ You have finished a long meta event and now your bags are now full of Unidentifi
 
 List those unopened on the Trading Post.
 
+Alternatively, if you have the <img class="gw2-icon-inline" src="/static/img/Runecrafters_Salvage-o-Matic.png" />[Runecrafter's Salvage-o-Matic](https://wiki.guildwars2.com/wiki/Runecrafter%27s_Salvage-o-Matic):
+
+1. Open the Pieces of Unidentified Gear
+2. Salvage the items using the <img class="gw2-icon-inline" src="/static/img/Runecrafters_Salvage-o-Matic.png" />[Runecrafter's Salvage-o-Matic](https://wiki.guildwars2.com/wiki/Runecrafter%27s_Salvage-o-Matic) for a chance to get upgrade components needed for legendary runes and sigils.
+
 <div><img class="gw2-icon-small" src="/static/img/Piece_of_Common_Unidentified_Gear.png" /><b class="text-gw2-rarity-fine">Piece of Common Unidentified Gear</b></div>
 
 1. Open the Pieces of Common Unidentified Gear.
