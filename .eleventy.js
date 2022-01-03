@@ -11,6 +11,10 @@ module.exports = function (eleventyConfig) {
     return parseChatCode(code);
   });
 
+  eleventyConfig.addShortcode("timestamp", function() {
+    return new Date().toLocaleString('sv-SE', { timeZone: 'UTC', timeZoneName: 'short' });
+  })
+
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
